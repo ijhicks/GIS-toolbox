@@ -1,7 +1,7 @@
 '''
-lastools_delete_duplicate_points_MJB_170424.py
+clip.py
 
-This toolbox is used to run LASTools "lasduplicate" on an entire directory rather than single files.
+This toolbox is used to run LASTools "lasclip" on an entire directory rather than single files.
 
 '''
 ##############################################
